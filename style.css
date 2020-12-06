@@ -1,0 +1,85 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;;
+}
+
+.name-color{
+    color: mediumvioletred;
+    font-size: 32px;
+}
+
+.hudai{
+    font-weight: bold;
+}
+section{
+    height: 700px;
+}
+
+.firstpart{
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+      
+}
+
+.firstpart img{
+    width: 100%    
+}
+.bottom{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 3px;
+    color: white;
+    padding: 2px 6px;
+}
+
+.first-area{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;}
+
+.second-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    
+}
+
+.thirdpart{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 6%;
+    padding: 2%;
+}
+
+
+
+.ltwork h1{
+    font-size: 32px;
+    margin-left: 40%;
+    
+}
+.khank img {
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+   
+    
+}
+
+
+.heda{
+    background-image: url("images/footer-bg.png");
+    background-size: 100%;
+    text-align: center;
+}
+
+#emon{
+    color: white;
+    margin-left: 32%;
+    background-color: mediumvioletred;
+    border-radius: 5px;
+    padding:  35px;
+    width: 30%;
+}
